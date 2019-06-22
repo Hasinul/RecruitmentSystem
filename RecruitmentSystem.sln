@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentCoreApi", "RecruitmentCoreApi\RecruitmentCoreApi.csproj", "{75A7D59F-7472-475A-B4DC-902C30902A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A7D59F-7472-475A-B4DC-902C30902A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A7D59F-7472-475A-B4DC-902C30902A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A7D59F-7472-475A-B4DC-902C30902A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A7D59F-7472-475A-B4DC-902C30902A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117B749F-BC5B-4DF6-9216-16B0BE0D5514}
+	EndGlobalSection
+EndGlobal
